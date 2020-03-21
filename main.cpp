@@ -39,7 +39,7 @@ int main()
 {  
     srand(time(0));
 
-    RenderWindow window(VideoMode(w, h), "Snake Game!");
+    RenderWindow window(VideoMode(w, h), "Snake Game by Sami !");
 
     Texture t1,t2;
     t1.loadFromFile("images/white.png");
